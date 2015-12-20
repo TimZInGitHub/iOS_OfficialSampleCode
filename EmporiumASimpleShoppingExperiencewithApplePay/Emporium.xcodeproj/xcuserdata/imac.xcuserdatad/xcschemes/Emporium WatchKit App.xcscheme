@@ -28,9 +28,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "019EB7CF1B180210009F2D5B"
-               BuildableName = "Emporium WatchKit Extension.appex"
-               BlueprintName = "Emporium WatchKit Extension"
+               BlueprintIdentifier = "01C712811A8B0E6200BEACE5"
+               BuildableName = "Emporium.app"
+               BlueprintName = "Emporium"
                ReferencedContainer = "container:Emporium.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -42,9 +42,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "01C712811A8B0E6200BEACE5"
-               BuildableName = "Emporium.app"
-               BlueprintName = "Emporium"
+               BlueprintIdentifier = "019EB7CF1B180210009F2D5B"
+               BuildableName = "Emporium WatchKit Extension.appex"
+               BlueprintName = "Emporium WatchKit Extension"
                ReferencedContainer = "container:Emporium.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
